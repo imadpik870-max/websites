@@ -1,3 +1,5 @@
+![Uploading ic_launcher.png…]()
+<img width="108" height="108" alt="ic_launcher_background" src="https://github.com/user-attachments/assets/bf203b9a-2cea-42ef-8599-ac103b46f024" />
 # User manual
 
 [[toc]]
